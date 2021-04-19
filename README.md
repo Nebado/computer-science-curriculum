@@ -856,8 +856,8 @@ Graphs can be used to represent many problems in computer science, so this secti
 - ### Design patterns
     - [ ] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
     - [ ] Learn these patterns:
-        - [ ] strategy
-        - [ ] singleton
+        - [x] strategy
+        - [x] singleton
         - [ ] adapter
         - [ ] prototype
         - [ ] decorator
